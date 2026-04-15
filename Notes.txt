@@ -1,5 +1,6 @@
 #Notes on Workshop
 a) What are the similarities between individual diagrams? What turned out the same?
+
 Similarities:  We all have a customer/clients, dogs, payments and walks for key attributes.
 They all turned out to be very similar as for the important things to know for the business. The connections, they are all connected to the client or dog. 
 
