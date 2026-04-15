@@ -51,6 +51,7 @@ Payments:
 a) What should be the main entities in your database (which will translate into tables)?
 Aim for at least three, but not more than five, to keep things from getting overly
 complicated.
+
 Our Entities would be customer, dog, appointment and payment 
 
 b) What attributes (column names) belong to each of those entities? It may be helpful
