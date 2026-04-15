@@ -1,5 +1,5 @@
 # Requirements and Conceptual Model
-Sonia, Lorah, Tihitina, & Smaya 
+Sonia, Lorah & Smaya 
 
 b) Brainstorm some basic requirements for this project. Who is the “end user” and
 what will the end user need to be able to do? What different categories of data
