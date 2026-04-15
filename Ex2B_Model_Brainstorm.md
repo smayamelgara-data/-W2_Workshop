@@ -4,7 +4,7 @@ Sonia, Lorah, Tihitina, & Smaya
 b) Brainstorm some basic requirements for this project. Who is the “end user” and
 what will the end user need to be able to do? What different categories of data
 might be important to track?
- Lana is the end user. The owner of the business. The data that needs to be tracked is:
+ Lana is the end user, being the owner of the business. The data that needs to be tracked is:
  -Customers : info on customer 
  -Dogs : info on dog 
  -Appointments : appointment info 
@@ -21,13 +21,30 @@ Customer:
 - Email
 - Address
 
-Dog:
+Dog: 
 -Dog ID
 -Dog name 
 -Dog Breed 
 -Age
 -Weight 
 -Special Intruction
+-Customer ID
+
+Appointments: 
+-Appointment ID
+-Date 
+-Time 
+-Duration 
+-Dog ID
+-Customer ID 
+
+Payments:
+-Payment ID
+-Payment Date
+-Amount 
+-Payment Status
+-Customer ID
+
 
 
   
