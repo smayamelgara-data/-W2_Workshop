@@ -1,2 +1,2 @@
-# -W2_Workshop 
+# W2_Workshop 
 # Sonia, Lorah & Smaya 2B Exercise 
