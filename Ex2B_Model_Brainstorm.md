@@ -16,10 +16,10 @@ with what information that category includes.
 
 Customer:
 -Customer ID
-- Full name
-- Phone number
-- Email
-- Address
+-Full name
+-Phone number
+-Email
+-Address
 
 Dog: 
 -Dog ID
